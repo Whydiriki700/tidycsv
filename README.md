@@ -1,3 +1,5 @@
+![tidycsv](assets/preview.png)
+
 # tidycsv
 
 Real world CSV files are messy. tidycsv reports the mess and cleans it.
